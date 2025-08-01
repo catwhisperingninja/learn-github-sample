@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "GITHUB AWESOME LISTS ARE AWESOME!!"
+echo "GITHUB AWESOME LISTS ARE AWESOME!! (pre-merge)"
 echo ""
 echo "    /\\_/\\  "
 echo "   ( o.o ) "
