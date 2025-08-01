@@ -1,0 +1,17 @@
+#!/bin/bash
+
+echo "GITHUB AWESOME LISTS ARE AWESOME!!"
+echo ""
+echo "    /\\_/\\  "
+echo "   ( o.o ) "
+echo "    > ^ <  "
+echo "   /     \\ "
+echo "  (  d   b )"
+echo "   \\  ~  /"
+echo "    \\   /"
+echo "     \\_/"
+echo "    \\o/"
+echo "     |"
+echo "    / \\"
+echo ""
+echo "   *dancing happily*"

@@ -2,4 +2,4 @@
 
 ## Making Changes
 
-Quick change woo hoo
+Quick change.
